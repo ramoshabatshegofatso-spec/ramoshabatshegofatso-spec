@@ -31,6 +31,9 @@ act on. Not clean tutorial datasets.
 PostgreSQL · DAX · Tableau · pandas · matplotlib
 
 ### Portfolio projects
+| Project | Question it answers | Tools |
+|---|---|---|
+| *(in progress)* | | |
 
 ### Certifications
 
